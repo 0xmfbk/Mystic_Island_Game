@@ -9,10 +9,10 @@ public class  Mustafa_Mohammad_With_Mystic_Island_Game{
 
 /*
 												 -----------------------------------------------------
-												 | Mini project (1) 								 |
-												 | Question: (1/1) 							         |
-												 | Written by: Mustafa Banikhalaf - 2021904052       |
-												 | Written by: Mohammad Majdalawy - 2021904045       |
+												 | Mini project (1) 				     |				 |
+												 | Question: (1/1) 				     |			         |
+												 | Written by: Mustafa Banikhalaf                    |
+												 | Written by: Mohammad Majdalawy                    |
 												 -----------------------------------------------------
 */
 
