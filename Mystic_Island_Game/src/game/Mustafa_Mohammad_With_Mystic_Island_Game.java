@@ -9,8 +9,8 @@ public class  Mustafa_Mohammad_With_Mystic_Island_Game{
 
 /*
 												 -----------------------------------------------------
-												 | Mini project (1) 				     |				 |
-												 | Question: (1/1) 				     |			         |
+												 | Mini project (1) 				     |				 
+												 | Question: (1/1) 				     |			         
 												 | Written by: Mustafa Banikhalaf                    |
 												 | Written by: Mohammad Majdalawy                    |
 												 -----------------------------------------------------
