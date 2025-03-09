@@ -64,8 +64,8 @@ To run the game, you need to have Java installed on your system. Follow these st
    ```bash
    git clone https://github.com/your-username/mystic-island-game.git
    ```
-
-Running the Game
+---
+## Running the Game
 
 1. **Compile the Java Code**:
    ```bash
