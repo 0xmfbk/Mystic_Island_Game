@@ -2,20 +2,9 @@ package game;
 
 import java.util.Scanner;
 
-public class  Mustafa_Mohammad_With_Mystic_Island_Game{
+public class  Mystic_Island_Game{
 	
 	
-	
-
-/*
-												 -----------------------------------------------------
-												 | Mini project (1) 				     |				 
-												 | Question: (1/1) 				     |			         
-												 | Written by: Mustafa Banikhalaf                    |
-												 | Written by: Mohammad Majdalawy                    |
-												 -----------------------------------------------------
-*/
-
 	
 	
 
@@ -375,15 +364,15 @@ public class  Mustafa_Mohammad_With_Mystic_Island_Game{
         while (true) {
         	
 
-        	// Here !!!!!!! Every thing about Mustafa
+        	// Here !!!!!!! Every thing about Khaled
         	
-        	printMap(Mustafa_Mohammad_With_Mystic_Island_Game.MAP); // to called class printMap to print the MAP with specific format
+        	printMap(Mystic_Island_Game.MAP); // to called class printMap to print the MAP with specific format
         	
         	System.out.println();
-            System.out.println("------Mustafa------");
+            System.out.println("------Khaled------");
             System.out.println();   
             
-            System.out.println("Current Position: " + player1.getPosition());  // Called Method getPosition to print the location for Mustafa
+            System.out.println("Current Position: " + player1.getPosition());  // Called Method getPosition to print the location for Khaled
             System.out.print("Decision: Enter a direction (R, L, U, D):"); // Decsioin : Right / Left / Up / Down
             
             String directionInput = scanner.next();
@@ -400,7 +389,7 @@ public class  Mustafa_Mohammad_With_Mystic_Island_Game{
             
             
             System.out.println();
-            player1.move(direction); // To manage the movement of Mustafa
+            player1.move(direction); // To manage the movement of Khaled
             System.out.println();
 
             
@@ -411,14 +400,14 @@ public class  Mustafa_Mohammad_With_Mystic_Island_Game{
             if (player1.getCurrentLocation() == 'R') {
                 if (player1.crossRiver()) {
                 	System.out.println();
-                    System.out.println("You have successfully crossed the river ( Excellent, Mustafa )");
+                    System.out.println("You have successfully crossed the river ( Excellent, Khaled )");
                     System.out.println();
                     player1.move('R');
                     System.out.println("Current Position: " + player1.getPosition());
 
                 } else {
                 	System.out.println();
-                    System.out.println("You could not cross the river , Mustafa");
+                    System.out.println("You could not cross the river , Khaled");
                     System.out.println();
                     player1.move('L');
                     System.out.println("Current Position: " + player1.getPosition());
@@ -436,7 +425,7 @@ public class  Mustafa_Mohammad_With_Mystic_Island_Game{
 
             
             
-        	printMap(Mustafa_Mohammad_With_Mystic_Island_Game.MAP); // To called class printMap to print the MAP with specific format
+        	printMap(Mystic_Island_Game.MAP); // To called class printMap to print the MAP with specific format
         	
         	System.out.println();
             System.out.println("------Mohammad------");
@@ -490,12 +479,12 @@ public class  Mustafa_Mohammad_With_Mystic_Island_Game{
             }
             
             
-            // Here !!!!!!!!!! The moment Mustafa wins
+            // Here !!!!!!!!!! The moment Khaled wins
             // By called hasWon() method in class player
 
             if (player1.hasWon()) {
             	System.out.println();
-                System.out.println("Mustafa wins the game, Excellent!");
+                System.out.println("Khaled wins the game, Excellent!");
                 System.out.println();
                 System.out.println("Thank you for playing this game, I hope you have a great time.");
                 System.out.println();
