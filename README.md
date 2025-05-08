@@ -77,8 +77,7 @@ To run the game, you need to have Java installed on your system. Follow these st
    ```
 
 Contributors
-Mustafa Banikhalaf - Game Developer
-Mohammad Majdalawy - Game Developer
+0xmfbk - Game Developer
 
 License
 This project is licensed under the MIT License. See the LICENSE file for details.
