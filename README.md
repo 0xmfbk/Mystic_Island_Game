@@ -1,6 +1,6 @@
 # Mystic Island Adventure Game
 
-Welcome to the **Mystic Island Adventure Game**! This is a text-based adventure game where two players, Mustafa and Mohammad, compete to find the treasure in the Guardian Temple on Mystic Island. Along the way, they will face various challenges and obstacles that will test their skills and decision-making abilities.
+Welcome to the **Mystic Island Adventure Game**! This is a text-based adventure game where two players, Khaled and Mohammad, compete to find the treasure in the Guardian Temple on Mystic Island. Along the way, they will face various challenges and obstacles that will test their skills and decision-making abilities.
 
 ---
 
